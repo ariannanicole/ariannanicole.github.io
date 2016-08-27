@@ -11,3 +11,8 @@ div#bs-example-navbar-collapse-1 ul li a{
 .navbar-inverse .navbar-brand{
   color:white;
 }
+.panel-default>.panel-heading {
+    color: white;
+    background-color: #308014;
+    border:none;
+}
