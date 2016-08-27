@@ -1,3 +1,7 @@
-.navbar-default{
-  color: #009933;
+nav.navbar.navbar-inverse.navbar-fixed-top{
+  background-color: #308014;
+  color: white;
+}
+.navbar-inverse{
+  border:none;
 }
