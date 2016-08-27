@@ -5,3 +5,6 @@ nav.navbar.navbar-inverse.navbar-fixed-top{
 .navbar-inverse{
   border:none;
 }
+div#bs-example-navbar-collapse-1 ul li{
+  color:white;
+}
